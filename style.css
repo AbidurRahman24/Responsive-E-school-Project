@@ -1,3 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.h1, h1 {
+    font-size: 3.5rem;
+}
+header{
+    background-color: #F0FFF0;
+}
+
+
 div#navbarSupportedContent {
     justify-content: flex-end;
+}
+span{
+    color: #21B573;
+}
+a:hover{
+    color:white;
+    text-decoration: none;
+}
+.row-height{
+    height:65vh
+}
+.text{
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+}
+.main-button{
+    color:white;
+    background-color: #21B573;
+    padding: 10px 25px;
+    text-decoration: none;
+    border-radius: 10px;
 }
