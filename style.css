@@ -7,7 +7,7 @@
     font-size: 3.5rem;
 }
 header{
-    background-color: #F0FFF0;
+    background-color: #f0fff0;
 }
 
 
@@ -42,4 +42,10 @@ a:hover{
     display: block;
     text-align: center;
     margin: 0 auto;
+}
+.bg-card{
+    background-color: #f7fff7;
+}
+.col-sm-6.col-md-3.col-md-3.shadow {
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.158), 0 6px 20px 0 rgba(0, 0, 0, 0.034);
 }
