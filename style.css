@@ -52,3 +52,9 @@ a:hover{
 .card{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.157), 0 6px 20px 0 rgba(0, 0, 0, 0.109);
 }
+.card-footer-icon{
+    width: 18px;
+    height:20px;
+    color:#585859;
+    margin-right: 5px;
+}
