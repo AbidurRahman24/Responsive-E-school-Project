@@ -49,3 +49,6 @@ a:hover{
 .col-sm-6.col-md-3.col-md-3.shadow {
     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.158), 0 6px 20px 0 rgba(0, 0, 0, 0.034);
 }
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.157), 0 6px 20px 0 rgba(0, 0, 0, 0.109);
+}
