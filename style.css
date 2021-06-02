@@ -9,7 +9,10 @@
 header{
     background-color: #f0fff0;
 }
+.logo{
 
+    width: 150px;
+}
 
 div#navbarSupportedContent {
     justify-content: flex-end;
